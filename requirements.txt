@@ -1,0 +1,11 @@
+certifi==2020.6.20
+dataclasses==0.6
+future==0.18.2
+numpy>=1.19.4
+Pillow>=8.1.2
+torch>=1.7.0
+torchvision>=0.8.1
+typing-extensions>=3.7.4.3
+matplotlib>=3.3.0
+pandas>=1.2.0
+openpyxl>=3.0.0

@@ -1,0 +1,24 @@
+data/PACS/*
+data/OfficeHome/*
+data/camelyon17/*
+data/txt_lists/camelyon17_*
+data/txt_lists/officehome_*
+data/txt_lists/pacs_*
+*.zip
+
+checkpoint/*
+Trash/*
+# checkpoint/pacs/fed_pacs/fedbn
+
+*/__pycache__/*
+
+logs/*/*.png
+logs/*
+pretrained_models/*
+*.cmd
+*.sh
+reconstruct_img/logs
+reconstruct_img/out_images
+style_transfer/AdaIN/style_stats/*
+style_transfer/AdaIN/models/*
+

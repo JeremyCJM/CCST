@@ -1,0 +1,7 @@
+/disk1/cjm/research/CCST/data/camelyon17/kfold/hospital2/0/patch_patient_034_node_3_x_9344_y_29472.png 0
+/disk1/cjm/research/CCST/data/camelyon17/kfold/hospital2/0/patch_patient_034_node_3_x_12992_y_39328.png 0
+/disk1/cjm/research/CCST/data/camelyon17/kfold/hospital2/0/patch_patient_034_node_3_x_13184_y_42720.png 0
+/disk1/cjm/research/CCST/data/camelyon17/kfold/hospital2/0/patch_patient_036_node_3_x_8960_y_29088.png 0
+/disk1/cjm/research/CCST/data/camelyon17/kfold/hospital2/0/patch_patient_036_node_3_x_7040_y_48896.png 0
+/disk1/cjm/research/CCST/data/camelyon17/kfold/hospital2/0/patch_patient_020_node_2_x_19968_y_33440.png 0
+/disk1/cjm/research/CCST/data/camelyon17/kfold/hospital2/0/patch_patient_024_node_2_x_11968_y_14144.png 0

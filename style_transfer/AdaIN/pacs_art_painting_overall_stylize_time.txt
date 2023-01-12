@@ -1,0 +1,4 @@
+Target art_painting with style photo: Finished in 27 seconds
+Images number: 2048
+Image resolution: 256
+Batch_size: 128
