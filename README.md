@@ -77,17 +77,17 @@ python data_list_generator.py --dataset PACS --target sketch --mode overall --st
 
   - For PACS and OfficeHome
 
-    'adain-single-K1': Single(K=1)
-    'adain-single-K2': Single(K=2)
-    'adain-single-K3': Single(K=3)
-    'adain-overall-K1': Overall (K=1)
-    'adain-overall-K2': Overall (K=2)
-    'adain-overall-K3': Overall (K=3)
+    - 'adain-single-K1': Single(K=1)
+    - 'adain-single-K2': Single(K=2)
+    - 'adain-single-K3': Single(K=3)
+    - 'adain-overall-K1': Overall (K=1)
+    - 'adain-overall-K2': Overall (K=2)
+    - 'adain-overall-K3': Overall (K=3)
 
   - For Camelyon17
 
-    'adain-single-K4': Single(K=4)
-    'adain-overall-K4': Overall (K=4)
+    - 'adain-single-K4': Single(K=4)
+    - 'adain-overall-K4': Overall (K=4)
 
 - **--dg_method**: Use other Domain Generalization methods under the Federated Learning (FedAvg) setting. Choices: ['no_DG', 'RSC', 'Jigsaw', 'MixStyle', 'feddg'].
 
