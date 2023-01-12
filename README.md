@@ -1,5 +1,6 @@
 # Federated Domain Generalization for Image Recognition via Cross-Client Style Transfer [WACV 2023]
 This is the Official PyTorch implemention of our WACV2023 paper **Federated Domain Generalization for Image Recognition via Cross-Client Style Transfer**
+
 [Paper](https://openaccess.thecvf.com/content/WACV2023/html/Chen_Federated_Domain_Generalization_for_Image_Recognition_via_Cross-Client_Style_Transfer_WACV_2023_paper.html) |  [Supp](https://openaccess.thecvf.com/content/WACV2023/supplemental/Chen_Federated_Domain_Generalization_WACV_2023_supplemental.pdf) | [Arxiv](https://arxiv.org/abs/2210.00912) | [Project Page](https://chenjunming.ml/proj/CCST/)
 ## Usage
 ### Setup
