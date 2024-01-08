@@ -37,6 +37,7 @@ CUDA_VISIBLE_DEVICES=2 python CCST_OverallStyleTransfer.py --dataset pacs --targ
 CUDA_VISIBLE_DEVICES=3 python CCST_OverallStyleTransfer.py --dataset pacs --target sketch --batch 6 --image_size 512 &
 
 # Reorgnize data from all_style_transferred_Overall
+## cd data/, change the path in reorganize_dataset.py to your own
 python reorganize_dataset.py --dataset PACS --mode Overall --target art_painting &
 python reorganize_dataset.py --dataset PACS --mode Overall --target cartoon &
 python reorganize_dataset.py --dataset PACS --mode Overall --target photo &
@@ -54,6 +55,7 @@ CUDA_VISIBLE_DEVICES=3 python CCST_SingleStyleTransfer.py --dataset pacs --targe
 CUDA_VISIBLE_DEVICES=0 python CCST_SingleStyleTransfer.py --dataset pacs --target sketch --batch 6 --image_size 512 &
 
 # Reorgnize data from all_style_transferred_Single
+## cd data/, change the path in reorganize_dataset.py to your own
 python reorganize_dataset.py --dataset PACS --mode Single --target art_painting &
 python reorganize_dataset.py --dataset PACS --mode Single --target cartoon &
 python reorganize_dataset.py --dataset PACS --mode Single --target photo &
